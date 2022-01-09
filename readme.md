@@ -1,0 +1,1 @@
+airbnb-clone with python 3.10 and django 4.1 and tailwind 
